@@ -1,0 +1,15 @@
+{
+  "name": "com.tea-spoons.large-numbers",
+  "version": "0.7.2",
+  "displayName": "Large Numbers",
+  "description": "Support for creating numbers with plenty of digits.",
+  "unity": "2022.3",
+  "author": {
+    "name": "Muhammad Tarek Abdou",
+    "email": "muhammadtarekabdou@gmail.com",
+    "url": "https://github.com/MuhammadTarek0"
+  },
+  "license": "PolyForm-Noncommercial-1.0.0",
+  "documentationUrl": "https://github.com/tea-spoons/large-numbers#readme",
+  "licensesUrl": "https://github.com/tea-spoons/large-numbers/blob/main/LICENSE.md"
+}

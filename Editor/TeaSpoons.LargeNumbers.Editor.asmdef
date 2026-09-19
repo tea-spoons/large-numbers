@@ -1,0 +1,16 @@
+{
+    "name": "TeaSpoons.LargeNumbers.Editor",
+    "rootNamespace": "TeaSpoons.LargeNumbers.Editor",
+    "references": [
+        "TeaSpoons.LargeNumbers"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "autoReferenced": true,
+    "defineConstraints": []
+}
