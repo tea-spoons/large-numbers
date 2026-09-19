@@ -21,6 +21,10 @@ https://github.com/tea-spoons/large-numbers.git
 
 Pin a release by appending a tag, for example `#v0.7.2`.
 
+## Change plan
+
+See [CHANGE-PLAN.md](CHANGE-PLAN.md) for what changed before publishing and what is planned next.
+
 ## License
 
 Copyright (c) 2026 Bigpoint. Authored by Muhammad Tarek Abdou.
